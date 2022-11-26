@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo Almaraz</h1>
 <h3 align="center">Jr. Web Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **NextJS, Laravel and React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 💼 You can find me on [https://www.linkedin.com/in/facundo-almaraz-49801a20b/](https://www.linkedin.com/in/facundo-almaraz-49801a20b/)
 
