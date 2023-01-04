@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo Almaraz</h1>
-<h3 align="center">Jr. Web Developer from Argentina</h3>
+
 
 - 🌱 I’m currently learning **React Native**
 
